@@ -2,6 +2,8 @@
 
 ![main challenge badge](https://img.shields.io/badge/Status-Agauardando%20Aceite-CB2A2E?style=flat-square)
 
+![Thumbnail](Capa.png)
+
 ## 👨‍💻 Sobre este repositório
 
 Esse repositório é apenas para registro pessoal do desenvolvimento do projeto. E serve como exemplo de repositório de para aulas de programação que ministro nessa mesma instituição, principalmente em aulas que ensinam como utilizar o Github. 
